@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 Building intelligent systems using **Machine Learning, Deep Learning, and Data Science**<br><br>🛰️ Currently working as a **Data Science Intern @ IIIT Bangalore**<br><br>📚 Research interests: **Computer Vision, Predictive Modelling, RAG, and Applied AI**<br><br>🌱 Currently learning **C++ (DSA), Advanced Deep Learning, and AWS**<br><br>💬 Ask me about **Python, Machine Learning, TensorFlow, PyTorch, Scikit-learn, Flask, and AI projects**<br><br>🤝 Open to collaborations on **AI, ML, Data Science, and Research projects**<br><br>⚡ Fun fact: When I'm not coding, you'll probably find me out for a run.
+## 👨‍💻 About Me<br><br>🔭 Building intelligent systems using **Machine Learning, Deep Learning, and Data Science**<br><br>🛰️ Worked as a **Data Science Intern @ IIIT Bangalore**<br><br>📚 Research interests: **Computer Vision, Predictive Modelling and Applied AI**<br><br>🌱 Currently learning **C++ (DSA), Advanced Deep Learning, and AWS**<br><br>💬 Ask me about **Python, Machine Learning, TensorFlow, PyTorch, Scikit-learn, Flask, and AI projects**<br><br>🤝 Open to collaborations on **AI, ML, Data Science, and Research projects**<br><br>⚡ Fun fact: When I'm not coding, you'll probably find me out for a run.
 
 
 ## 🌐 Socials:
